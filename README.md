@@ -1,1 +1,1 @@
-# Labirint
+# Labirint in Python
